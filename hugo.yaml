@@ -1,5 +1,5 @@
-baseURL: 'https://esokhransky.github.io/jtracker/'
-title: TailBliss
+baseURL: 'https://esokhransky.github.io/jtracker'
+title: 'Jazz tracker'
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
