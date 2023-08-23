@@ -2533,6 +2533,14 @@ video {
   height: 16rem;
 }
 
+.h-16 {
+  height: 3rem;
+}
+
+.w-16 {
+  width: 3rem;
+}
+
 .max-h-12 {
   max-height: 3rem;
 }
