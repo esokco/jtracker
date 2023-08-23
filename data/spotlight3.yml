@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "3rd"
+title : "Support musicians"
+content: |
+  Musicians life is hard -  a small tip to a band or an individual musician goes a long way
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/tips-jar.png"

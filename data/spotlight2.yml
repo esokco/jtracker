@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Know about the coming concerts"
+content: |
+  Follow your favorite artists and get notified about their upcoming concerts. You will be the first one to get the tickets.
+button: 
+  label: "Follow"
+  link: "https://forms.gle/BFfqhesB7DczcPBp7"
+image: "images/jazz-ticket.png"

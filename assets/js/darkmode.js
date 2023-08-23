@@ -21,9 +21,11 @@ themeToggleBtn.addEventListener('click', function() {
         if (localStorage.getItem('color-theme') === 'light') {
             document.documentElement.classList.add('dark');
             localStorage.setItem('color-theme', 'dark');
+            document.documentElement.classList.remove('invert');
         } else {
             document.documentElement.classList.remove('dark');
             localStorage.setItem('color-theme', 'light');
+            document.documentElement.classList.add('invert');
         }
 
     // if NOT set via local storage previously
@@ -31,9 +33,11 @@ themeToggleBtn.addEventListener('click', function() {
         if (document.documentElement.classList.contains('dark')) {
             document.documentElement.classList.remove('dark');
             localStorage.setItem('color-theme', 'light');
+            document.documentElement.classList.add('invert');
         } else {
             document.documentElement.classList.add('dark');
             localStorage.setItem('color-theme', 'dark');
+            document.documentElement.classList.remove('invert');
         }
     }
     
