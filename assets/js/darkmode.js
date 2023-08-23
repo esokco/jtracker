@@ -9,6 +9,8 @@ if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localS
 }
 
 var themeToggleBtn = document.getElementById('theme-toggle');
+document.documentElement.classList.add('dark');
+localStorage.setItem('color-theme', 'dark');
 
 themeToggleBtn.addEventListener('click', function() {
 
