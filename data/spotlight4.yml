@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Get ahead of everyone"
+title : "Your jazz journal"
 content: |
-  Follow your favorite artists and get notified about their upcoming concerts. You will be the first one to get the tickets.
+  Keep the journal of you favorite shows and share them with your friends
 button: 
-  label: "Follow"
+  label: "Get Started"
   link: "https://forms.gle/BFfqhesB7DczcPBp7"
 image: "images/jazz-ticket.png"

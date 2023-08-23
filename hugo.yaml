@@ -90,19 +90,13 @@ params:
     button: "Notify me"
 
   social_media:
-    github:
-      enabled: true
-      url: 'https://github.com/nusserstudios'
     facebook:
       enabled: true
       url: 'https://facebook.com/nusserstudios'
     instagram:
       enabled: true
       url: 'https://instagram.com/nusserstudios'
-    twitter:
-      enabled: true
-      url: '@nusserstudios'
-    
+
 
 menu:
   footer:
@@ -131,17 +125,6 @@ privacy:
   instagram:
     disable: false
     simple: false
-  twitter:
-    disable: false
-    enableDNT: false
-    simple: false
-  vimeo:
-    disable: false
-    enableDNT: false
-    simple: false
-  youtube:
-    disable: false
-    privacyEnhanced: true
 
 module:
   hugoVersion:

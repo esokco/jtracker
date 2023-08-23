@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Discover new artists"
+content: |
+  Connect with new artists and learn all about them
+button:
+  label: "Discover"
+  link: "https://forms.gle/BFfqhesB7DczcPBp7"
+image: "images/jazz-calendar.png"
