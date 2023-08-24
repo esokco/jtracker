@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "3rd"
-title : "Support musicians"
+title : "Give back"
 content: |
-  Musicians life is hard -  a small tip to a band or an individual musician goes a long way
+  Musicians life is hard. A small tip to a band or an individual musician goes a long way
 button: 
   label: "Learn More"
   link: "https://fqf76afg1l9.typeform.com/to/X6azeSgD"

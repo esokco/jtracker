@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Get ahead of everyone"
+title : "Grab tickets before they sell out"
 content: |
-  Follow your favorite artists and get notified about their upcoming concerts. You will be the first one to get the tickets.
+  Get notified about the upcoming concerts as soon as they are scheduled and always get the best seats.
 button: 
-  label: "Follow"
+  label: "Get Notified"
   link: "https://fqf76afg1l9.typeform.com/to/X6azeSgD"
 image: "images/jazz-ticket.png"

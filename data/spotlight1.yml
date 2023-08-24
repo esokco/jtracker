@@ -1,11 +1,10 @@
 ####################### Spotlight #########################
 style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
-title : "Follow your favorite artists"
+title : "Follow your favorite musicians"
 content: |
-  Jazz musicians play in different bands all the time. It's impossible to keep track of their schedule.  
-  
-  Follow the schedule of any musician and not just band leaders.
+  Follow any musician, be they a star or your local legend. See the schedules of their own projects or any other project they play with.  
+
 button:
-  label: "Get notified"
+  label: "Follow"
   link: "https://fqf76afg1l9.typeform.com/to/X6azeSgD"
 image: "images/jazz-calendar.png"
