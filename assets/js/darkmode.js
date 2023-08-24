@@ -1,3 +1,8 @@
+document.documentElement.classList.add('dark');
+localStorage.setItem('color-theme', 'dark');
+document.documentElement.classList.add('dark');
+
+/*
 var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
 var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
 
@@ -41,3 +46,4 @@ themeToggleBtn.addEventListener('click', function() {
     }
     
 });
+ */
