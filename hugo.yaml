@@ -86,7 +86,7 @@ params:
       - identifier: e
       - identifier: f
   callToAction:
-    heading: "Enjoy  jazz live"
+    heading: "Enjoy jazz live"
     content:
       - text: "Every jazz show is a special moment you can enjoy and then it's gone. We make sure you never miss a chance to experience these unique connections with your favorite artists."
     Label: "Get Started"
