@@ -50,9 +50,14 @@ params:
   authorimage: /images/jazz-connection.png
   og_image: /images/jazz-connection.png
   moto: "Each live jazz show builds a unique connection with your favorite artists"
-  description: "We help you stay in touch with them so you never miss these opportunities."
-  disable_theme_toggle: false
-  disable_stay_uptodate: false
+  description: "Don't miss these opportunities"
+  disable_theme_toggle: true
+  disable_stay_uptodate: true
+  disable_blog: true
+
+  firstCallToAction:
+    Label: "Tune In"
+    Url: "https://forms.gle/BFfqhesB7DczcPBp7"
 
   p1:
     heading: "Follow your favorite artists"
@@ -80,14 +85,12 @@ params:
       - identifier: d
       - identifier: e
       - identifier: f
-  p5:
-    heading: "Stay Up to Date"
+  callToAction:
+    heading: "Live jazz for real fans"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Every jazz show is a special moment you can enjoy and then it's gone. We make sure you never miss a chance to experience these unique connections with your favorite artists."
     action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
+    button: "Get started"
 
   social_media:
     facebook:

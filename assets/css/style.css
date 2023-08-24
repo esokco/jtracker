@@ -2723,6 +2723,8 @@ video {
 
 .flex-col {
   flex-direction: column;
+  display: flex;
+  align-items: center;
 }
 
 .flex-wrap {
@@ -2887,6 +2889,11 @@ video {
 
 .bg-primary-500 {
   --tw-bg-opacity: 1;
+  background-color: rgb(99 102 241 / var(--tw-bg-opacity));
+}
+
+.bg-primary-300 {
+  --tw-bg-opacity: 0.3;
   background-color: rgb(99 102 241 / var(--tw-bg-opacity));
 }
 
