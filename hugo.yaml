@@ -49,8 +49,8 @@ params:
   author: Jazz Tracker
   authorimage: /images/jazz-connection.png
   og_image: /images/jazz-connection.png
-  moto: "Helps you to build unique connection with musicians"
-  description: ""
+  moto: "Each live jazz show builds a unique connection with your favorite artists"
+  description: "We help you stay in touch with them so you never miss these opportunities."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
