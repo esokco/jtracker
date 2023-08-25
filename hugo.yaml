@@ -51,7 +51,8 @@ params:
   authorimage: /images/jazz-connection.png
   og_image: /images/jazz-connection.png
   moto: "Every live show that you see creates a unique connection with your favorite artists"
-  description: "Don't miss these opportunities"
+  motoDescription: "Don't miss these opportunities"
+  description: "Stay in sync with your jazz heroes"
   disable_theme_toggle: true
   disable_stay_uptodate: true
   disable_blog: true
