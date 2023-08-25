@@ -7,4 +7,5 @@ content: |
 button: 
   label: "Learn More"
   link: "https://fqf76afg1l9.typeform.com/to/X6azeSgD"
+  class: "link-3"
 image: "images/tips-jar.png"

@@ -7,4 +7,5 @@ content: |
 button: 
   label: "Get Notified"
   link: "https://fqf76afg1l9.typeform.com/to/X6azeSgD"
+  class: "link-2"
 image: "images/jazz-ticket.png"
