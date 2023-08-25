@@ -10,6 +10,7 @@ paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+googleAnalytics: G-Q2T4X0CFKS
 
 markup:
   goldmark:
@@ -94,19 +95,13 @@ params:
 
   social_media:
     facebook:
-      enabled: true
+      enabled: false
       url: 'https://facebook.com/nusserstudios'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://instagram.com/jazz.tracker'
 
 
-menu:
-  footer:
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
 
 markup:
   goldmark:
