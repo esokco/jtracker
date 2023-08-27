@@ -1,7 +1,7 @@
 ####################### Spotlight #########################
 style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Your jazz journal"
+title : "Keep your jazz journal"
 content: |
   Keep record of your favorite shows and share them with your friends
 button: 
