@@ -7,4 +7,5 @@ content: |
 button:
   label: "Follow"
   link: "https://fqf76afg1l9.typeform.com/to/X6azeSgD"
+  class: "link-1"
 image: "images/jazz-calendar.png"
